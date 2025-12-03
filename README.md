@@ -41,5 +41,17 @@ Iotive is a smart home application built to simplify the way users manage their 
   - Firebase Realtime Database (for real-time control and sync)
 
 
+--- 
+
+## 🖼️ Snapshots
+
+### 🔹 App Screen 1 and 2
+![home screen](./appSnapshots/1.png)
+
+### 🔹 App Screen 3 and 4
+![home screen](./appSnapshots/2.png)
+
+
+
 
 
